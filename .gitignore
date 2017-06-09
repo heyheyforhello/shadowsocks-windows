@@ -10,3 +10,7 @@ shadowsocks-csharp/3rd/*
 packages/*
 
 shadowsocks-csharp.sln.DotSettings.user
+
+Mume/bin
+Mume/bld
+Mume/win32
